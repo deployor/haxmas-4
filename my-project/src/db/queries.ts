@@ -1,4 +1,4 @@
-import { db } from "./index"
+import { db } from "./index.js"
 import { wishes } from "./schema"
 import { eq, desc } from "drizzle-orm"
 
